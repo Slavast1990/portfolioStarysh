@@ -1,8 +1,8 @@
 {
-  "name": "simplefolio",
+  "name": "portfolio",
   "version": "1.0.1",
   "private": "true",
-  "description": "A clean, beautiful and responsive portfolio template for Developers!",
+  "description": "Slava Starysh Portfolio",
   "source": "src/index.html",
   "scripts": {
     "start": "parcel",
@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cobidev/simplefolio"
+    "url": "https://github.com/Slavast1990/portfolioStarysh.git"
   },
   "keywords": [],
-  "author": "Jacobo Martinez",
+  "author": "Slava Starysh",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/cobidev/simplefolio/issues"
   },
-  "homepage": "https://github.com/cobidev/simplefolio#readme",
+  "homepage": "https://slavast1990.github.io/portfolioStarysh/",
   "devDependencies": {
     "@parcel/transformer-sass": "^2.0.1",
     "parcel": "^2.0.1",
